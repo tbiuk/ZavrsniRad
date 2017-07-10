@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:PresentationLayer">
+
+    <Color x:Key="GrayVeryLight">#F5F5F5</Color>
+    <SolidColorBrush x:Key="GrayVeryLightBrush" Color="{StaticResource GrayVeryLight}" />
+
+    <Color x:Key="GrayLight">#E0E0E0</Color>
+    <SolidColorBrush x:Key="GrayLightBrush" Color="{StaticResource GrayLight}" />
+    
+</ResourceDictionary>

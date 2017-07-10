@@ -1,0 +1,5 @@
+C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\BusinessLogicLayer\bin\Release\BusinessLogicLayer.dll
+C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\BusinessLogicLayer\bin\Release\BusinessLogicLayer.pdb
+C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\BusinessLogicLayer\obj\Release\BusinessLogicLayer.dll
+C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\BusinessLogicLayer\obj\Release\BusinessLogicLayer.pdb
