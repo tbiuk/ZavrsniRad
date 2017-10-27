@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\PresentationLayer\obj\Debug\
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\
 PresentationLayer
 none
 false
 DEBUG;TRACE
-C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\PresentationLayer\App.xaml
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\App.xaml
 81001804972
 
-22-1536368032
-16496194925
+22-1813399924
+16-1481936387
 Pages\Cinema.xaml;MainWindow.xaml;Pages\Login.xaml;Pages\Film.xaml;Pages\Register.xaml;Styles\Buttons.xaml;Styles\Colors.xaml;Styles\Texts.xaml;
 
 True

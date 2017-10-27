@@ -17,3 +17,25 @@ C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\BusinessLogic
 C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
 C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\database.sqlite
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\DataLinkLayer.dll
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\Ninject.dll
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\System.Data.SQLite.dll
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\DataLinkLayer.pdb
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\DataLinkLayer.dll.config
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\Ninject.xml
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\System.Data.SQLite.xml
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\bin\Debug\System.Data.SQLite.dll.config
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Stuff\Code\ZavrsniRad\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

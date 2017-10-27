@@ -13,3 +13,20 @@ C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\DataLinkLayer
 C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\DataLinkLayer\obj\Debug\DataLinkLayer.dll
 C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\DataLinkLayer\obj\Debug\DataLinkLayer.pdb
 C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\DataLinkLayer\obj\Debug\DataLinkLayer.csprojResolveAssemblyReference.cache
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\bin\Debug\database.sqlite
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\bin\Debug\DataLinkLayer.dll.config
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\bin\Debug\DataLinkLayer.dll
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\bin\Debug\DataLinkLayer.pdb
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\bin\Debug\EntityFramework.dll
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\bin\Debug\System.Data.SQLite.dll
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\bin\Debug\EntityFramework.xml
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\bin\Debug\System.Data.SQLite.xml
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\bin\Debug\System.Data.SQLite.dll.config
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\obj\Debug\DataLinkLayer.csprojResolveAssemblyReference.cache
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\obj\Debug\DataLinkLayer.csproj.CoreCompileInputs.cache
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\obj\Debug\DataLinkLayer.dll
+D:\Stuff\Code\ZavrsniRad\DataLinkLayer\obj\Debug\DataLinkLayer.pdb

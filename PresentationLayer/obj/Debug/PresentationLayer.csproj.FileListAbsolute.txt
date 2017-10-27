@@ -36,3 +36,44 @@ C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\PresentationL
 C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
 C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\PresentationLayer\obj\Debug\PresentationLayer.exe
 C:\Users\Toni\documents\visual studio 2012\Projects\KinoAplikacija\PresentationLayer\obj\Debug\PresentationLayer.pdb
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\database.sqlite
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\PresentationLayer.exe
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\MahApps.Metro.dll
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\System.Windows.Interactivity.dll
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\System.Data.SQLite.dll
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\Ninject.dll
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\BusinessLogicLayer.dll.config
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\MahApps.Metro.pdb
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\MahApps.Metro.xml
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\System.Data.SQLite.xml
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\System.Data.SQLite.dll.config
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\bin\Debug\Ninject.xml
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\Pages\Cinema.g.cs
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\MainWindow.g.cs
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\Pages\Login.g.cs
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\Pages\Film.g.cs
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\Pages\Register.g.cs
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\App.g.cs
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\App.baml
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\Pages\Cinema.baml
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\MainWindow.baml
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\Pages\Login.baml
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\Pages\Film.baml
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\Pages\Register.baml
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\Styles\Buttons.baml
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\Styles\Colors.baml
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\Styles\Texts.baml
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\PresentationLayer.exe
+D:\Stuff\Code\ZavrsniRad\PresentationLayer\obj\Debug\PresentationLayer.pdb

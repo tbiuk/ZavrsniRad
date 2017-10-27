@@ -12,7 +12,7 @@ namespace BusinessLogicLayer
     public static class DatabaseQuery
     {
 
-        private static SQLiteConnection dbConnection = new SQLiteConnection("Data Source=C:/Users/Toni/Documents/Visual Studio 2012/Projects/KinoAplikacija/PresentationLayer/database.sqlite;Version=3;");
+        private static SQLiteConnection dbConnection = new SQLiteConnection("Data Source=D:/Stuff/Code/ZavrsniRad/PresentationLayer/database.sqlite;Version=3;");
 
         public static ObservableCollection<Film> GetFilms()
         {
